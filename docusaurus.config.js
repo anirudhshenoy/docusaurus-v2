@@ -2,13 +2,16 @@ module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
   url: 'https://anirudhshenoy.github.io',
-  baseUrl: '/docusaurus-v2',
+  baseUrl: '/docusaurus-v2/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'anirudhshenoy', // Usually your GitHub org/user name.
   projectName: 'docusaurus-v2', // Usually your repo name.
   //themes: ['@docusaurus/theme-search-algolia'],
   themeConfig: {
+    colorMode:{
+      defaultMode: 'dark'
+    },
     navbar: {
       title: 'My Site',
       logo: {
