@@ -8,6 +8,7 @@ slug: /
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
 ## Markdown Syntax
+This is a test line to try GH actions
 
 To serve as an example page when styling markdown based Docusaurus sites.
 
