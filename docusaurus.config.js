@@ -6,7 +6,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'anirudhshenoy', // Usually your GitHub org/user name.
-  projectName: 'docusaurus-v2', // Usually your repo name.
+  projectName: 'anirudhshenoy.github.io', // Usually your repo name.
   //themes: ['@docusaurus/theme-search-algolia'],
   themeConfig: {
     colorMode:{
