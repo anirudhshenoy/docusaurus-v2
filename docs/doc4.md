@@ -2,7 +2,6 @@
 id: doc4
 title: First Example Function
 sidebar_label: First Example Function
-slug: /
 ---
 
 # sendTextMessage
