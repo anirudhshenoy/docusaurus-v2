@@ -1,16 +1,22 @@
 ---
 id: doc7
 title: Second Example Object
-sidebar_label: Second Example Object
+sidebar_label: allSteps
 ---
 
-# app.allSteps
+## app.allSteps
 
 Created by Harish
 
-## Use Case
+### Input Parameters
+
+### Output Parameters
+
+//Use Case
 
 It is an Array contains info of each step ( id and slug ) as an object. 
+
+### Examples
 
 ```javascript
 app.log(app.allSteps);
