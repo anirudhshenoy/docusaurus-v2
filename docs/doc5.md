@@ -13,7 +13,13 @@ Process to directly call/execute other function from the Developer Section
 
 ### Input Parameters
 
+
+
+
 ### Output Parameters
+
+
+
 
 
 So, functions introduce modularity in the code. The code becomes more readable, maintainable, and better able to be debugged.
