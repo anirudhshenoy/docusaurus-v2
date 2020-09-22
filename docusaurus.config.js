@@ -89,7 +89,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
+            'https://github.com/anirudhshenoy/docusaurus-v2/tree/master/docs',
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/',
         },
