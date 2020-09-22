@@ -6,6 +6,5 @@ module.exports = {
     "Methods": ['doc4','doc5'],
     },
     //Features: ['mdx'],
-    
   },
 };
