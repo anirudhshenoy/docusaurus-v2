@@ -3,6 +3,6 @@ module.exports = {
     //LocalReference: ['doc1', 'doc2', 'doc3'],
     Methods: ['doc4','doc5'],
     Objects: ['doc6','doc7'],
-    YMRelease notes : ['mdx'],
+    YMReleaseNotes : ['Sept 2020', 'Aug 2020'],
   },
 };
