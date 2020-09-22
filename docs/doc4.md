@@ -1,5 +1,5 @@
 ---
-id: parentFile/doc4
+id: doc4
 title: First Example Function
 sidebar_label: First Example Function
 ---
