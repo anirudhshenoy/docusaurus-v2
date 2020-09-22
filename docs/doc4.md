@@ -4,7 +4,7 @@ title: First Example Function
 sidebar_label: First Example Function
 ---
 
-# sendTextMessage
+## sendTextMessage
 
 Created by Siddharth Goel
 Last Updated April 28, 2019
@@ -12,19 +12,12 @@ Last Updated April 28, 2019
 
 The Process to send text message in the bot
 
+### Input Parameters
 
-## Use Case
-
-So, the main purpose of a bot is to have a conversation with a user and simultaneously serve the requests.
-
-A text message is the most basic form of serving those requests by sending the reply back as you can most probably guess, a text message.
-In the majority of cases, a text message is all we need.
-
-An additional benefit of using a plain old text message is that it is supported by every channel, be it chat, voice and even calls!
-So, text messages are very useful despite being very basic in how it can be formatted.
+### Output Parameters
 
 
-## Format of the Function
+### Example Code
 
 ```javascript
 app.sendTextMessage(`Your message with value ${variable_name}`).then(() => {
