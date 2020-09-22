@@ -24,7 +24,6 @@ In the majority of cases, a text message is all we need.
 An additional benefit of using a plain old text message is that it is supported by every channel, be it chat, voice and even calls!
 So, text messages are very useful despite being very basic in how it can be formatted.
 
---
 
 # Format of the Function
 
@@ -38,7 +37,6 @@ So, there is no parameter that needs to be passed apart from the obvious message
 
 > The message is generally a string but a variable’s value can be directly passed too.
 Another popular way to pass the variable value is to use `` notation (present just below Esc key) and write your message as you will and add a variable value as ${variable_name}. ``
---
 
 # Notes
 
