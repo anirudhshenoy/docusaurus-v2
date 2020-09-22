@@ -10,9 +10,9 @@ slug: /
 Created by Siddharth Goel
 Last Updated April 28, 2019
 
+
 The Process to send text message in the bot
 
---
 
 # Use Case
 
@@ -36,7 +36,7 @@ app.sendTextMessage(`Your message with value ${variable_name}`).then(() => {
 
 So, there is no parameter that needs to be passed apart from the obvious message that we want to display.
 
-The message is generally a string but a variable’s value can be directly passed too.
+> The message is generally a string but a variable’s value can be directly passed too.
 Another popular way to pass the variable value is to use `` notation (present just below Esc key) and write your message as you will and add a variable value as ${variable_name}. ``
 --
 
