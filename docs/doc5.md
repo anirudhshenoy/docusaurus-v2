@@ -1,24 +1,27 @@
 ---
 id: doc5
 title: Second Example Function
-sidebar_label: Second Exmaple Function
+sidebar_label: executeFunction
 ---
 
-# executeFunction
+## executeFunction
 
 Created by Siddharth Goel
 April 29, 2019
 
 Process to directly call/execute other function from the Developer Section
 
-## Use Case
+### Input Parameters
+
+### Output Parameters
+
 
 So, functions introduce modularity in the code. The code becomes more readable, maintainable, and better able to be debugged.
 
 htere can come a situation when we have already defined a common function that will be called by many different functions.
 To execute this function, we have to use the executeFunction function.
 
-## Format of the Function
+### Code Snippet
 
 ```javascript
 app.executeFunction('functionName', args).then((optional_returned_value) => {
@@ -32,7 +35,7 @@ app.executeFunction('functionName', args).then((optional_returned_value) => {
 1. The first argument is the function name that we want to execute.
 1. The second argument deals with the arguments/parameters that we want the function to use.
 
-## Notes 
+### Notes 
 
 args is a JSON Object
 ```JSON
