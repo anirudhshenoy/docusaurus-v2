@@ -1,5 +1,5 @@
 ---
-id: sendTextMessage
+id: doc4
 title: sendTextMessage
 sidebar_label: sendTextMessage
 ---
