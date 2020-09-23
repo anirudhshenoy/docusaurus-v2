@@ -1,10 +1,8 @@
 ---
-id: doc4
-title: First Example Function
+id: sendTextMessage
+title: sendTextMessage
 sidebar_label: sendTextMessage
 ---
-
-## sendTextMessage
 
 Created by Siddharth Goel
 Last Updated April 28, 2019
