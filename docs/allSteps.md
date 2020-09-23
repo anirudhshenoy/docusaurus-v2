@@ -1,11 +1,8 @@
 ---
-id: doc7
-title: Second Example Object
-sidebar_label: allSteps
+id: allSteps
+title: allSteps
+sidebar_label: app.allSteps
 ---
-
-## app.allSteps
-
 Created by Harish
 
 ### Input Parameters
