@@ -1,10 +1,8 @@
 ---
-id: doc6
-title: First Example Object
-sidebar_label: allFunctions
+id: allFunctions
+title: allFunctions
+sidebar_label: app.allFunctions
 ---
-
-## app.allFunctions
 
 Created by Harish Mukkara
 
