@@ -1,10 +1,8 @@
 ---
-id: doc5
-title: Second Example Function
+id: executeFunction
+title: executeFunction
 sidebar_label: executeFunction
 ---
-
-## executeFunction
 
 Created by Siddharth Goel
 April 29, 2019
